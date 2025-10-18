@@ -1,6 +1,6 @@
 {
 	"name": "non-error",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "An error subclass for wrapping non-error values",
 	"license": "MIT",
 	"repository": "sindresorhus/non-error",
